@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 გამარჯობა, მე ვარ ავთანდილ აბრამიშვილი!
 
-<!--
-**Avtoabramishvili/Avtoabramishvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 დეველოპერი & დიზაინერი
 
-Here are some ideas to get you started:
+მე ვარ პროგრამირებით დაინტერესებული ენთუზიასტი, რომელიც მუშაობს როგორც ტექნიკურ, ისე ვიზუალურ პროექტებზე. ჩემი მიზანია შევქმნა პროდუქტები, რომლებიც ფუნქციურიც არის და ლამაზიც.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 ტექნიკური უნარები
+* **პროგრამირების ენები:** Python, JavaScript, C++ 🚀
+* **ვებ-ტექნოლოგიები:** HTML5, CSS3, Responsive Design 🌐
+* **დიზაინი & ედითინგი:** ვიდეო მონტაჟი, ფოტო მანიპულაცია, გრაფიკული დიზაინი 🎨
+
+---
+
+## 🏆 სერტიფიკატები (freeCodeCamp)
+* **Scientific Computing with Python** (400 საათი)
+* **JavaScript Algorithms and Data Structures** (300 საათი)
+* **Responsive Web Design** (300 საათი)
+
+---
+
+## 📫 დამიკავშირდით
+* **LinkedIn:** [შენი ლინკი აქ]
+* **Portfolio:** [შენი Notion პორტფოლიოს ლინკი აქ]
+
+---
+*“კოდი უნდა იყოს სუფთა, დიზაინი კი — შთამაგონებელი.”*
